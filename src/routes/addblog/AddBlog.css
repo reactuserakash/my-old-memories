@@ -1,0 +1,44 @@
+.AddBlog {
+    
+    padding: 20px 40px;
+}
+
+.AddBlog p  {
+    text-align: left;
+    margin: 5px 0px;
+    color: #2e3544;
+    font-weight: bold;
+}
+
+.AddBlog input,textarea {
+    font-family: sans-serif;
+    width: 75%;
+    border : 2px solid #2e3544;
+    padding: 10px 20px;
+    outline: none;
+    border-radius: 3px;
+    margin-right: 30px;
+}
+
+
+.add-blog-btn {
+    margin: 10px 0px;
+    outline: none;
+    padding: 10px 47px;
+    background-color: #283040;
+    border: none;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    border-radius: 4px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+@media only screen and (max-width:320px) {
+    .AddBlog input,textarea {
+        width: 82%;
+    
+    }
+}

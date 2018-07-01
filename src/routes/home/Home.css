@@ -1,0 +1,85 @@
+.Home {
+    height: auto;
+    width: 100%;
+}
+
+.header {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 90px;
+    margin-bottom: 100px;
+}
+
+.search-section {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.search-section input {
+    border : 2px solid #2e3544;
+    padding: 10px 20px;
+    outline: none;
+    border-radius: 3px;
+}
+
+.search-button {
+    margin: 10px 10px;
+    outline: none;
+    padding: 10px 46px;
+    background-color: #283040;
+    border: none;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    border-radius: 4px;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+
+.other-routs {
+    padding: 0;
+    text-align: center;
+} 
+
+.other-routs li {
+    list-style: none;
+    margin: 30px 0px;
+}
+
+
+.route-button {
+    background-color: #283040;
+    text-decoration: none;
+    border-radius: 4px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    box-shadow:0 .125rem .25rem rgba(0,0,0,.075);
+}
+
+.add-blog {
+    padding: 10px 90px;
+}
+
+.all-blogs {
+    padding: 10px 86px;
+}
+
+.post-close-btn {
+    cursor: pointer;
+    border: none;
+    margin-top: 20px;
+    margin-left: 20px;
+    outline: none;
+    padding: 10px 20px;
+    background-color: #283040;
+    text-decoration: none;
+    border-radius: 4px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+}

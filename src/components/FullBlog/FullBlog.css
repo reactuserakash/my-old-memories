@@ -1,0 +1,31 @@
+.Post {
+    padding: 20px 35px;
+}
+
+.post-liked {
+    text-align: right;
+    padding-top: 20px;
+}
+.post-liked img {
+    height: 30px;
+}
+
+.full-post {
+    padding-top: 20px;
+}
+
+.post-day,
+.post-time,
+.post-date {
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 0;
+    padding: 1px 0;
+    font-size: 17px;
+}
+
+.post-body {
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 20px;
+}

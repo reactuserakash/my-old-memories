@@ -1,0 +1,20 @@
+.each-blog {
+    text-decoration: none;
+}
+
+.each-blog-div {
+    background-color: #ffffff;
+    margin: 12px 30px;
+    padding: 15px 25px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 1px rgba(0,0,0,0.24);
+    border-radius: 3px;
+}
+
+.each-blog-div p {
+    font-weight: bold;
+    letter-spacing: 1px;
+    margin: 0;
+    padding: 1px 0;
+    font-size: 17px;
+    color: #000;
+}
