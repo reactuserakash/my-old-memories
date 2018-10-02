@@ -2,6 +2,6 @@ This project was created with [Create React App](https://github.com/facebookincu
 
 Run "npm install" in the folder to work with it.
 
-Web app based on daily writhing
+Web app based on daily writing
 
 
